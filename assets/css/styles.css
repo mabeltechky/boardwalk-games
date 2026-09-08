@@ -28,6 +28,14 @@ h3 {
 
 }
 
+/*Navbar*/
+#navbar {
+    background-color: var(--primary-color);
+}
+#navbar .logo {
+    width: 30px;
+}
+
 /*Grid visualisation for testing*/
 /*.container
 .row  {
