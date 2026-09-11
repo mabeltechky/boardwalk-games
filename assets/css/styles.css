@@ -106,6 +106,10 @@ h2 {
     color:var(--secondary-color);
     transition: color 0.3sec ease-in-out;
 }
+
+#contact .table-dark  * {
+    background-color: transparent;
+}
 /*Grid visualisation for testing*/
 /*.container
 .row  {
