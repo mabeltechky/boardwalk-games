@@ -133,6 +133,11 @@ h2 {
 #contact .table-dark  * {
     background-color: transparent;
 }
+
+#discount p {
+    background-color:var(--highlight-color);
+    color: white;
+}
 /*Grid visualisation for testing*/
 /*.container
 .row  {
