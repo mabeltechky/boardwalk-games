@@ -77,7 +77,7 @@ h2 {
 
 .custom-button-outline {
     border: 3px solid var(--highlight-color);
-    padding-bottom: 7px 25px;
+    padding: 7px 25px;
     color: var(--highlight-color);
 }
 
@@ -127,7 +127,7 @@ h2 {
 
 #contact .social-links i:hover {
     color:var(--secondary-color);
-    transition: color 0.3sec ease-in-out;
+    transition: color 0.3s ease-in-out;
 }
 
 #contact .table-dark  * {
